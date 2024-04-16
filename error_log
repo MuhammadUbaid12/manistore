@@ -1,0 +1,45 @@
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/header.php on line 229
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/header.php on line 230
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/index.php on line 60
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/index.php on line 63
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 59
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 60
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 97
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 98
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 136
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 137
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/footer.php on line 102
+[13-Feb-2024 18:48:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/footer.php on line 104
+[13-Feb-2024 18:48:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[13-Feb-2024 18:48:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[13-Feb-2024 18:48:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/header.php on line 229
+[13-Feb-2024 18:48:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/header.php on line 230
+[13-Feb-2024 18:48:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[13-Feb-2024 18:48:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/footer.php on line 102
+[13-Feb-2024 18:48:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/footer.php on line 104
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/header.php on line 229
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/header.php on line 230
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/index.php on line 60
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/index.php on line 63
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 59
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 60
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 97
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 98
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 136
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/functions/common_function.php on line 137
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cso3qwk9mv4n/public_html/maniistore/footer.php on line 102
+[13-Feb-2024 18:48:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cso3qwk9mv4n/public_html/maniistore/footer.php on line 104
+[13-Feb-2024 18:48:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cso3qwk9mv4n/public_html/maniistore/admin/config.php on line 6
+[14-Feb-2024 08:14:29 UTC] Reached point X in the script.
+[14-Feb-2024 08:14:51 UTC] Reached point X in the script.
+[16-Feb-2024 08:06:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/cso3qwk9mv4n/public_html/maniistore/index.php on line 64
+[16-Feb-2024 08:06:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/cso3qwk9mv4n/public_html/maniistore/index.php on line 64
+[16-Feb-2024 09:53:31 UTC] Reached point X in the script.
